@@ -25,6 +25,7 @@
   apegado a las instrucciones del fabricante.
 - Las molduras y tapa del motor están recién pintados para cubrir manchas por desgaste natural.
 - La lona del cajón es de excelente calidad y tiene poco uso.
+- test
 
 ## Precio de Venta:
 

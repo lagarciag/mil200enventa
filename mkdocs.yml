@@ -1,0 +1,8 @@
+site_name: Mi L200 en venta
+theme:
+  name: material
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

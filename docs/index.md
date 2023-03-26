@@ -19,6 +19,7 @@
 
 ## Estado del vehículo
 
+- cc
 - El vehículo está en excelente estado.
 - Se ha utilizado como carro familiar, nunca como vehículo de trabajo.
 - El mentenimiento se le ha dado siempre en al agencia y
